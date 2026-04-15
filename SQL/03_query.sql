@@ -1,4 +1,4 @@
---Question 3: Creating a matrix showing the high_risk_flag rate for every combination of air_quality_level and exercise_level.
+--Query 3: Creating a matrix showing the high_risk_flag rate for every combination of air_quality_level and exercise_level.
 -- Create a View for the Risk Matrix
 CREATE OR REPLACE VIEW vw_env_exercise_risk_matrix AS
 SELECT 
