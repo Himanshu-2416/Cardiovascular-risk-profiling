@@ -1,4 +1,4 @@
---Question 4: For each location_tier, finding the difference in high_risk_flag percentage between the highest income rank (4) and the lowest income rank (1).
+--Query 4: For each location_tier, finding the difference in high_risk_flag percentage between the highest income rank (4) and the lowest income rank (1).
 -- Creating a View to measure the Health Gap between Income Classes
 CREATE OR REPLACE VIEW vw_socio_economic_health_gap AS
 SELECT 
