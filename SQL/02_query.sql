@@ -1,4 +1,4 @@
---Question 2: Identifing the count and demographic profile (Age Group & Gender) of individuals who reported heart_symptoms_past_year but have NO known_diabetes and NO known_hypertension.
+--Query 2: Identifing the count and demographic profile (Age Group & Gender) of individuals who reported heart_symptoms_past_year but have NO known_diabetes and NO known_hypertension.
 CREATE OR REPLACE VIEW vw_undiagnosed_symptoms_profile AS
 WITH TargetGroup AS (
     SELECT 
