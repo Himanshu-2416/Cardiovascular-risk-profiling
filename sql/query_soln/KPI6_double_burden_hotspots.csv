@@ -1,0 +1,26 @@
+city_name,location_tier,total_respondents,vulnerable_count,double_burden_pct
+Kanpur,"Tier 1",341,31,9.09
+Delhi,"Tier 1",311,28,9.00
+Delhi,"Tier 2",316,28,8.86
+Patna,"Tier 3",351,31,8.83
+Bhopal,"Tier 1",347,28,8.07
+Bengaluru,"Tier 1",324,26,8.02
+Patna,"Tier 2",337,27,8.01
+Ahmedabad,"Tier 2",312,25,8.01
+Hyderabad,"Tier 3",362,28,7.73
+Kolkata,"Tier 3",328,25,7.62
+Bhopal,"Tier 3",350,26,7.43
+Ahmedabad,"Tier 1",359,26,7.24
+Hyderabad,"Tier 2",333,24,7.21
+Mumbai,"Tier 1",309,21,6.80
+Bengaluru,"Tier 3",332,22,6.63
+Ahmedabad,"Tier 3",337,22,6.53
+Hyderabad,"Tier 1",354,23,6.50
+Lucknow,"Tier 3",327,21,6.42
+Kanpur,"Tier 2",335,21,6.27
+Bhopal,"Tier 2",321,20,6.23
+Kanpur,"Tier 3",332,19,5.72
+Kolkata,"Tier 2",330,18,5.45
+Lucknow,"Tier 2",317,17,5.36
+Patna,"Tier 1",363,19,5.23
+Kolkata,"Tier 1",352,18,5.11
