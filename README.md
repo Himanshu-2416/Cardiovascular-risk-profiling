@@ -6,7 +6,7 @@ quality, occupation, and lifestyle factors interact to drive heart disease
 risk — beyond what basic demographics alone would show.
 
 **Pipeline:** Raw CSV → Python cleaning & feature engineering → MySQL KPI
-layer → Power BI executive dashboard *(in progress)*
+layer → Power BI executive dashboard
 
 ---
 
@@ -140,12 +140,19 @@ Highlights:
 
    ### Page 1 — National Overview
    ![National Overview](docs/DB_Overview.png)
-
+   
+  Total respondents, average national risk, highest risk city, and a regional risk map of India with tier/gender/age-group slicers.
+  
    ### Page 2 — Risk Drivers
    ![Risk Drivers](docs/DB_risk_drivers.png)
+   
+   Air quality × exercise risk matrix, income risk gap by tier, second-hand smoke risk multiplier by age group, and risk by household infrastructure.
+
 
    ### Page 3 — Screening & Equity
    ![Screening & Equity](docs/DB_screening_equity.png)
+
+   Cardiovascular risk by age (raw vs. smoothed trend), undiagnosed symptom prevalence by age/gender, occupational stress index, and double burden hotspot cities.
 
 ---
 
