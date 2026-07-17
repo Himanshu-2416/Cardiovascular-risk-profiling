@@ -136,9 +136,16 @@ Highlights:
 
 ## Power BI Dashboard
 
-See [`docs/powerbi_roadmap.md`](docs/powerbi_roadmap.md) for the full 3-page
-dashboard spec (National Overview, Risk Drivers, Screening & Equity) and the
-data model plan using the 10 KPI CSVs.
+**Status: Live.** 3-page executive dashboard built on the 10 KPI views.
+
+   ### Page 1 — National Overview
+   ![National Overview](docs/DB_Overview.png)
+
+   ### Page 2 — Risk Drivers
+   ![Risk Drivers](docs/DB_risk_drivers.png)
+
+   ### Page 3 — Screening & Equity
+   ![Screening & Equity](docs/DB_screening_equity.png)
 
 ---
 
